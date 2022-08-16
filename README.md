@@ -1,9 +1,6 @@
-
-
-Here are some ideas to get you started:
+Hello World 👋
 
 - 🔭 I’m currently working on Shopify Projects
 - 🌱 I’m currently learning JavaScript
 - 💬 Ask me about Shopify Store Setup
 - 📫 How to reach me: ...
-
